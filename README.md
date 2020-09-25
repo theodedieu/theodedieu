@@ -30,7 +30,8 @@
 </p>
 
 <script>&#x000A;  (function() {&#x000A;    var script   = document.createElement('script');&#x000A;    script.src   = '//api.codeur.com/widgets/profile.js?k=_nzIId8a11EIWwDA';&#x000A;    script.async = true;&#x000A;    var entry = document.getElementsByTagName('script')[0];&#x000A;    entry.parentNode.insertBefore(script, entry);&#x000A;  })();&#x000A;</script>
-<div data-layout="activity-description-rating-tags" data-style="dark" class="codeur-profile-widget"></div>
+<p data-layout="activity-description-rating-tags" data-style="dark" class="codeur-profile-widget"></p>
+
 <!--
 **theodedieu/theodedieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
